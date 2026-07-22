@@ -190,6 +190,7 @@ The discovered segments can be further analyzed for applications such as:
 - Customer retention strategies.
 - Financial behavior analysis.
 
+---
+ReadMe is generated using GPT. Check the important info
 
 
-# Project Workflow
