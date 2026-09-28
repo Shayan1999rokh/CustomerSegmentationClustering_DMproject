@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/customer-segmentation-cover.png" alt="Customer Segmentation Using Unsupervised Learning" width="100%">
+  <img src="Customer_Segmentation_Unsupervised_Cover.png" width="100%">
 </p>
 
 <h1 align="center">Customer Segmentation Using Unsupervised Learning</h1>
